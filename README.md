@@ -14,8 +14,8 @@
 
 
 ### Projects
-* [Message Emotion Detection](http://emotion-detection-messenger.herokuapp.com/)
 * [Sign Language Recognition](https://github.com/Scorpi35/Sign-Language-Recognition)
+* [Message Emotion Detection](http://emotion-detection-messenger.herokuapp.com/)
 * [Stock Price Prediction](https://github.com/Scorpi35/Stock_Price_Prediction-LSTM)
 
 
