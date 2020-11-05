@@ -5,7 +5,7 @@
 * I've currently been working on a research paper, **Recommendation based on Pattern Prediction and Change Point Analysis**.
 
 ### Articles
-* Calculate Item Similarity
+* [Calculate Item Similarity](https://medium.com/swlh/calculate-item-similarity-d7a6255c912d)
 * Word Embedings
 * Latent Matrix Factorization
 
