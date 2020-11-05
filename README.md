@@ -13,6 +13,9 @@
 * **[Recommendation based on Pattern Prediction and Change Point Analysis](https://www.researchgate.net/publication/344397561_Recommendation_based_on_Pattern_Prediction_Change_Point_Analysis)** - On Review
 
 
-
+### Projects
+* [Message Emotion Detection](http://emotion-detection-messenger.herokuapp.com/)
+* Sign Language Recognition
+* [Stock Price Prediction](https://github.com/Scorpi35/Stock_Price_Prediction-LSTM)
 
 
