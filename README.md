@@ -1,7 +1,7 @@
 ### Hi, I am Ashish Subedi, a software engineer, interested in Machine Learning
 
 * I do projects on Machine Learning.
-* I write articles on AI reflecting my knowledge on the domains like NLP (Natural Language Processing), Recommendation System, Computer Vision and many more.
+* I write articles on AI reflecting my knowledge on the domains like **NLP, Recommendation System, Computer Vision** and many more.
 * I've currently been working on a research paper, **[Recommendation based on Pattern Prediction and Change Point Analysis](https://www.researchgate.net/publication/344397561_Recommendation_based_on_Pattern_Prediction_Change_Point_Analysis)**.
 
 ### Articles
